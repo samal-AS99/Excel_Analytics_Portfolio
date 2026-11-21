@@ -1,4 +1,4 @@
-# Advanced_Excel
+# Excel_Analytics_portfolio
 
 What I worked on:
 
